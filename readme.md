@@ -14,4 +14,4 @@
 <img src="readme/mobile1.png">
 <img src="readme/mobile2.png">
 
-<p>Overall this hackathin was an amazing experience, got to learn a lot and tbh I had no idea that I would be able to pull it off without a team so thanks for making me realise that!!</p>
+<p>Overall this hackathon was an amazing experience, got to learn a lot and tbh I had no idea that I would be able to pull it off without a team so thanks for making me realise that!!</p>
