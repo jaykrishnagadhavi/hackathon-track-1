@@ -23,7 +23,7 @@
     display: grid;
     grid-template-rows: repeat(5, 1fr);
     height: 100vh;
-    background: url('images/menubg.jpeg');
+    background: url(../images/menubg.jpeg);
     background-size: cover;
     border-image: fill 1 linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
   }
