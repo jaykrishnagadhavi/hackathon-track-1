@@ -3,12 +3,3 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-.body {
-    height: 100vh;
-}
-
-iframe {
-    height: 700px;
-    width: 100%;
-}
